@@ -1,4 +1,0 @@
-#Wed Aug 04 08:41:11 BST 2021
-base.0=/Users/daniele/Documents/stopwatch/benchmark/build/intermediates/dex/releaseAndroidTest/mergeDexReleaseAndroidTest/classes.dex
-renamed.0=classes.dex
-path.0=classes.dex

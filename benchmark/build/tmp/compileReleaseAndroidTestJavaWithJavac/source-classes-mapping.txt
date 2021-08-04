@@ -1,2 +1,0 @@
-it/codewiththeitalians/benchmark/test/BuildConfig.java
- it.codewiththeitalians.benchmark.test.BuildConfig
