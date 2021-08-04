@@ -1,0 +1,3 @@
+it.codewiththeitalians.benchmark.test:layout/isolation_activity = 0x7f030000
+it.codewiththeitalians.benchmark.test:id/clock_state = 0x7f020000
+it.codewiththeitalians.benchmark.test:drawable/logo = 0x7f010000
